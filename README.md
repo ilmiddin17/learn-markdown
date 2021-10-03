@@ -7,7 +7,7 @@
   - indented
   1. inner number
 
-[This are codes](github.com/ilmiddin17/leetcode-problems)
+[This are codes](https://github.com/ilmiddin17/leetcode-problems)
 
 
 This paragraph has some `variable` inline code
